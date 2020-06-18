@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="student"
+        android:key="username"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="请输入用户名"
+        android:title="用户名" />
+    <EditTextPreference
+        android:defaultValue="password"
+        android:key="password"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="请输入密码"
+        android:inputType="textPassword"
+        android:title="密码" />
+    <EditTextPreference
+        android:defaultValue="10"
+        android:key="interval"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="请输入刷新时间"
+        android:title="刷新间隔" />
+
+</PreferenceScreen>

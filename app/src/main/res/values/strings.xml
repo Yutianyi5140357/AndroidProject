@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yutianyi</string>
+    <string name="action_submit">提交</string>
+    <string name="hellostr">欢迎！</string>
+    <string name="strCalcTitle">计算器</string>
+    <string name="strBtnClearAll">C</string>
+    <string name="strBtnDivide">/</string>
+    <string name="strBtnMulti">*</string>
+    <string name="strBtnSub">-</string>
+    <string name="strBtnAdd">+</string>
+    <string name="strBtnEql">=</string>
+    <string name="strTitlePost">发布微博</string>
+    <string name="strBtnPost">发布</string>
+    <string name="strEditHint">请输入……</string>
+    <string name="strmaintitle">余天义</string>
+    <string name="strmemo">备忘录</string>
+    <string name="startservice">启动服务</string>
+    <string name="stopservice">停止服务</string>
+    <string name="strsettings">选项设置</string>
+</resources>
